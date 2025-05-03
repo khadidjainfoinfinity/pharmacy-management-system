@@ -1,4 +1,4 @@
-# Pharmacy Management System
+# Pharmacy Management System by khadidja <3
 
 A Java-based application for managing pharmacy operations including:
 - Client management
