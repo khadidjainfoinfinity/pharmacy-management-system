@@ -17,7 +17,7 @@ A Java-based application for managing pharmacy operations including:
 ## How to Run
 1. Clone the repository
 2. Open in IntelliJ IDEA or your preferred Java IDE
-3. Run the `Main.java` file
+3. Run the `Main.java` file ( in the PharmacyApp.java file )
 
 ## Requirements
 - Java 8 or higher
